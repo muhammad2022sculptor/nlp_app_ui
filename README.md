@@ -9,6 +9,20 @@ You can ask for example:
   What are the Business names?
   etc..
   
+- key functionalities of the UI;
+It allows the user to put the question in the textfield and get the answer below.
+
+- the API endpoints the UI uses;
+/unique_doc_names for selecting the document to ask questions about it.
+/answer_question for getting the answer.
+
+- the key challenges you faced in building the front-end;
+The biggest challenge was to get the accuracy because the model had a very small limit of reading the context of data.
+
+- how would you improve the front-end, if you had more time to work on it?
+I would've increase the features like uploading you own document and added question answering about it.
+Maybe added more styling to it too.
+
 ## Available Scripts
 
 In the project directory, you can run:
